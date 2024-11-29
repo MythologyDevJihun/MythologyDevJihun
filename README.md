@@ -66,14 +66,14 @@
 ---
 
 ## 📫 연락 방법
-[**ONLINE CONTACT CARD**](https://mythologyteams.com/contact_us?name=신지훈)
-
+[**ONLINE CONTACT CARD**](https://mythologyteams.com/contact_us?name=신지훈) <br>
+[**My Blog**](https://mythologydevjihun.github.io/)
 <br/>
 
 ---
 
 ## ⚡ TMI
-- 만 26세
+- 만 26세
 
 
 
