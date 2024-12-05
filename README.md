@@ -12,6 +12,9 @@ Hello, I’m **Dev Jihun**, the leader and main developer of [MythologyTeams](ht
 I have four years of experience as an app developer, but I am aiming to become a full-stack developer.<br>
 To achieve this goal, I am actively studying and working on side projects to improve my skills.<br>
 I enjoy tackling challenges that push me to think creatively and grow as a developer.
+<br>
+
+[**Now Develop Project : Astro Theme Mitia**](https://github.com/Team-Mythology/astro-theme-mitia)
 
 <br>
 
