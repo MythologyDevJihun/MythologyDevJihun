@@ -21,3 +21,8 @@ I enjoy tackling challenges that push me to think creatively and grow as a devel
 <img src="https://skillicons.dev/icons?i=flutter,vue,nodejs,mysql,dart,js,python,java,linux"
      width="300px"
      style="display: block; object-fit: contain;">
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MythologyDevJihun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
