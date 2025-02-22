@@ -14,7 +14,7 @@ To achieve this goal, I am actively studying and working on side projects to imp
 I enjoy tackling challenges that push me to think creatively and grow as a developer.
 <br>
 
-[**Now Develop Project : Astro Theme Mitia**](https://github.com/Team-Mythology/astro-theme-mitia)
+[**Now Develop Project : Astro Theme Mitia**](https://github.com/Team-Mythology/astro-theme-mitia) : REST
 
 <br>
 
